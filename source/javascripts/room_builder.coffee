@@ -38,7 +38,6 @@ document.addEventListener 'DOMContentLoaded', ->
           .attr('r', refObject.userDotRadius)
 
     userAvatarDot: (d, refObject) =>
-      console.log @
       scale = 2.5
       switch d.status
         when 4

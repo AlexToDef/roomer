@@ -221,9 +221,6 @@ document.addEventListener 'DOMContentLoaded', ->
         .on 'click', ->
           user = users[d3.select(@).attr('data-user-id')]
 
-          console.log d3.select(@)
-
-
           modal = d3.select('.roomer-modal')
           modal.classed 'roomed-modal__visible', true
 
@@ -236,7 +233,6 @@ document.addEventListener 'DOMContentLoaded', ->
 
           offset = self.getContainerTranslate(d3.select('.roomer'))
 
-          console.log parseInt(d3.select(@).attr('x'))
           widthDifference = $(r.svg[0][0]).width() - r.svg.attr('width')
           heightDifference = $(r.svg[0][0]).height() - r.svg.attr('height')
 
@@ -253,7 +249,6 @@ document.addEventListener 'DOMContentLoaded', ->
             d3.select('.roomer-modal').classed 'roomed-modal_visible', false
 
     setData: ->
-      console.log 'setdata'
       (new sqRoomBuilder(@svg, @users)).initialize()
 
     initialize: ->
