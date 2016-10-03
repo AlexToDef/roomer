@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="798" viewBox="0 0 820 798" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <ellipse id="a" cx="404.359" cy="478.394" rx="18.009" ry="18.294"/>
+    <mask id="k" width="36.017" height="36.588" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <rect id="b" width="9.004" height="32.409" x="235.702" y="352.447"/>
+    <mask id="l" width="9.004" height="32.409" x="0" y="0" fill="white">
+      <use xlink:href="#b"/>
+    </mask>
+    <rect id="c" width="9.004" height="32.41" x="75.119" y="388.047"/>
+    <mask id="m" width="9.004" height="32.41" x="0" y="0" fill="white">
+      <use xlink:href="#c"/>
+    </mask>
+    <rect id="d" width="9.004" height="32.41" x="184.73" y="480.514"/>
+    <mask id="n" width="9.004" height="32.41" x="0" y="0" fill="white">
+      <use xlink:href="#d"/>
+    </mask>
+    <polygon id="e" points="126.379 358.447 135.384 358.447 135.384 390.347 126.379 390.347"/>
+    <mask id="o" width="9.004" height="31.9" x="0" y="0" fill="white">
+      <use xlink:href="#e"/>
+    </mask>
+    <rect id="f" width="9.004" height="35.181" x="7.879" y="127.777"/>
+    <mask id="p" width="9.004" height="35.181" x="0" y="0" fill="white">
+      <use xlink:href="#f"/>
+    </mask>
+    <rect id="g" width="9.004" height="35.181" x="38.014" y="72.019"/>
+    <mask id="q" width="9.004" height="35.181" x="0" y="0" fill="white">
+      <use xlink:href="#g"/>
+    </mask>
+    <rect id="h" width="9.004" height="37.151" x="271.817" y="-3.659"/>
+    <mask id="r" width="9.004" height="37.151" x="0" y="0" fill="white">
+      <use xlink:href="#h"/>
+    </mask>
+    <polygon id="i" points="301.322 18.823 310.293 18.823 310.185 55.479 301.181 55.479"/>
+    <mask id="s" width="9.112" height="36.657" x="0" y="0" fill="white">
+      <use xlink:href="#i"/>
+    </mask>
+    <polygon id="j" points="301.983 248.097 310.89 248.026 310.89 284.557 301.886 284.557"/>
+    <mask id="t" width="9.004" height="36.532" x="0" y="0" fill="white">
+      <use xlink:href="#j"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-55 -64)">
+    <g fill="#FEFFF5" fill-opacity=".01" transform="translate(58 65)">
+      <path d="M409.273924,0.755691356 C315.736584,84.4858954 231.531921,176.952621 224.848827,184.299276 C298.260934,251.168265 405.481401,345.692018 409.24959,349.074379 C442.612912,318.000722 470.415855,298.513662 593.924356,183.941021 C523.082547,101.388208 412.508458,3.27320061 409.273924,0.755691356 Z"/>
+      <polygon points="593.729 184.21 501.072 267.876 556.263 332.921 653.21 253.049"/>
+      <polygon points="653.721 253.1 556.577 332.778 612.29 399.33 709.955 323.992"/>
+      <path d="M710.172144,324.339284 L475.595425,505.426764 C475.595425,505.426764 532.795957,591.342923 560.327455,632.398345 C566.083439,628.735625 812.309685,474.774434 814.703892,471.378682 C766.527596,396.475632 710.172144,324.339284 710.172144,324.339284 Z"/>
+      <polygon points="224.648 184.356 164.553 252.648 287.969 354.566 344.108 291.078"/>
+      <polygon points="164.542 252.699 107.783 321.502 235.586 416.266 287.879 354.222"/>
+      <path d="M107.821001,321.537643 C107.821001,321.537643 34.1129518,414.065783 0.0734883374,469.082732 C3.12752424,471.065572 258.791028,633.097501 258.791028,633.097501 L245.7424,655.97957 L324.708591,656.16755 L324.708591,490.828537 L392.962791,490.828537 C392.962791,490.828537 392.80075,475.831089 409.029838,474.201156 C409.024555,474.042496 409,349.160654 409,349.160654 L344.131413,291.256664 C344.131413,291.256664 277.143569,364.962396 235.419842,416.523437 C226.699588,409.919805 107.821001,321.537643 107.821001,321.537643 Z"/>
+      <polygon points="501.013 268.608 408.999 349.288 408.999 411.882 475.806 505.527 612.48 398.44"/>
+    </g>
+    <g fill="#E1E1E1" transform="translate(94.891 69.75)">
+      <rect width="41.934" height="20.977" x="520.437" y="591.689" transform="rotate(-32.5 541.404 602.178)"/>
+      <rect width="41.934" height="20.977" x="557.02" y="568.479" transform="rotate(-32.5 577.987 578.968)"/>
+      <rect width="41.934" height="20.977" x="593.526" y="545.213" transform="rotate(-32.5 614.493 555.702)"/>
+      <rect width="41.934" height="20.977" x="629.879" y="522.246" transform="rotate(-32.5 650.846 532.735)"/>
+      <rect width="41.934" height="20.977" x="692.367" y="482.579" transform="rotate(-32.5 713.334 493.068)"/>
+      <rect width="41.934" height="20.977" x="728.437" y="459.689" transform="rotate(-32.5 749.404 470.177)"/>
+      <rect width="41.934" height="20.977" x="550.518" y="503.233" transform="rotate(-35 571.485 513.722)"/>
+      <rect width="41.934" height="20.977" x="586.397" y="478.11" transform="rotate(-35 607.364 488.599)"/>
+      <rect width="41.934" height="20.977" x="621.702" y="453.389" transform="rotate(-35 642.67 463.878)"/>
+      <rect width="41.934" height="20.977" x="656.393" y="429.098" transform="rotate(-35 677.36 439.587)"/>
+      <rect width="41.934" height="20.977" x="691.259" y="404.685" transform="rotate(-35 712.226 415.174)"/>
+      <rect width="41.934" height="20.977" x="537" y="484" transform="rotate(-35 557.967 494.489)"/>
+      <rect width="41.934" height="20.977" x="572.907" y="458.868" transform="rotate(-35 593.874 469.356)"/>
+      <rect width="42" height="21.01" x="608.13" y="434.185" transform="rotate(-35 629.13 444.69)"/>
+      <rect width="41.934" height="20.977" x="642.901" y="409.858" transform="rotate(-35 663.868 420.347)"/>
+      <polygon points="673 386.978 702.436 386.978 702.436 371 714.934 371 714.934 407.955 673 407.955" transform="rotate(-35 693.967 389.478)"/>
+      <polygon points="644 347.978 673.436 347.978 673.436 332 685.934 332 685.934 368.955 644 368.955" transform="scale(1 -1) rotate(37.5 1697.44 0)"/>
+      <rect width="41.934" height="20.977" x="474.891" y="461.754" transform="rotate(-37.75 495.858 472.242)"/>
+      <rect width="41.934" height="20.977" x="523.181" y="424.296" transform="rotate(-37.75 544.148 434.784)"/>
+      <rect width="41.934" height="20.977" x="570.953" y="386.875" transform="rotate(-37.75 591.92 397.364)"/>
+      <polygon points="535.048 227.65 571.516 227.65 571.516 210.972 584.286 210.972 584.286 227.65 584.286 248.628 584.286 266.432 571.516 266.432 571.516 248.628 535.048 248.628" transform="rotate(-41 559.667 238.702)"/>
+      <rect width="41.934" height="20.977" x="154.15" y="246.369" transform="rotate(-50 175.117 256.857)"/>
+      <rect width="41.934" height="20.977" x="211.333" y="225.391" transform="rotate(42 232.3 235.88)"/>
+      <polygon points="103.318 293.443 139.786 293.443 139.786 276.765 152.556 276.765 152.556 293.443 152.556 314.42 152.556 332.224 139.786 332.224 139.786 314.846 103.318 314.846" transform="rotate(-141 127.937 304.494)"/>
+      <rect width="41.934" height="20.977" x="61.487" y="356.916" transform="rotate(36.7 82.454 367.405)"/>
+      <rect width="41.934" height="20.977" x="122.958" y="402.781" transform="rotate(36.7 143.925 413.27)"/>
+      <rect width="41.934" height="20.977" x="3.126" y="446.121" transform="rotate(33.5 24.093 456.61)"/>
+      <rect width="41.934" height="20.977" x="14.697" y="428.646" transform="rotate(33.5 35.664 439.134)"/>
+      <rect width="41.934" height="20.977" x="75.47" y="495.622" transform="rotate(33.5 96.437 506.111)"/>
+      <rect width="41.934" height="20.977" x="88.145" y="476.479" transform="rotate(33.5 109.112 486.968)"/>
+      <rect width="41.934" height="20.977" x="111.327" y="519.356" transform="rotate(33.5 132.294 529.844)"/>
+      <rect width="41.934" height="20.977" x="124.002" y="500.213" transform="rotate(33.5 144.97 510.701)"/>
+      <rect width="41.934" height="20.977" x="147.184" y="543.089" transform="rotate(33.5 168.151 553.578)"/>
+      <rect width="41.934" height="20.977" x="159.859" y="523.946" transform="rotate(33.5 180.826 534.435)"/>
+      <rect width="41.934" height="20.977" x="183.041" y="566.822" transform="rotate(33.5 204.008 577.311)"/>
+      <rect width="41.934" height="20.977" x="195.716" y="547.679" transform="rotate(33.5 216.683 558.168)"/>
+      <rect width="41.934" height="20.977" x="434.716" y="290.679" transform="rotate(48 455.683 301.168)"/>
+      <rect width="41.934" height="20.977" x="391.716" y="327.679" transform="rotate(48 412.683 338.168)"/>
+      <rect width="41.934" height="20.977" x="373.716" y="382.679"/>
+      <polygon points="425.337 475.177 446.335 475.177 446.335 453.783 460.772 453.783 460.772 490.743 425.337 490.743" transform="rotate(143 443.055 472.263)"/>
+      <rect width="35.93" height="20.977" x="466.716" y="414.679" transform="rotate(-39 484.681 425.168)"/>
+      <rect width="35.93" height="20.977" x="495.716" y="390.949" transform="rotate(-39 513.681 401.437)"/>
+      <rect width="25.93" height="20.977" x="528.716" y="367.949" transform="rotate(-39 541.681 378.437)"/>
+      <polygon points="201.337 184.177 222.335 184.177 222.335 162.783 236.772 162.783 236.772 199.743 201.337 199.743" transform="rotate(133 219.055 181.263)"/>
+      <polygon points="245.337 215.177 266.335 215.177 266.335 193.783 280.772 193.783 280.772 230.743 245.337 230.743" transform="rotate(-137 263.055 212.263)"/>
+      <polygon points="489 158.978 518.436 158.978 518.436 143 530.934 143 530.934 179.955 489 179.955" transform="rotate(-133 509.967 161.478)"/>
+      <rect width="41.934" height="20.977" x="446.716" y="174.679" transform="rotate(137 467.683 185.168)"/>
+      <rect width="41.934" height="20.977" x="415.529" y="203.731" transform="rotate(137 436.496 214.22)"/>
+      <rect width="41.934" height="20.977" x="384.329" y="232.931" transform="rotate(137 405.296 243.42)"/>
+      <polygon points="457 124.978 486.436 124.978 486.436 109 498.934 109 498.934 145.955 457 145.955" transform="scale(1 -1) rotate(-45.5 173.968 0)"/>
+      <rect width="41.934" height="20.977" x="430.716" y="157.679" transform="rotate(137 451.683 168.168)"/>
+      <rect width="41.934" height="20.977" x="399.529" y="186.731" transform="rotate(137 420.496 197.22)"/>
+      <rect width="41.934" height="20.977" x="368.329" y="215.931" transform="rotate(137 389.296 226.42)"/>
+      <rect width="41.934" height="20.977" x="402.716" y="67.679" transform="rotate(133.5 423.683 78.168)"/>
+      <polyline points="416.491 100.989 387.625 131.407 372.409 116.967 401.274 86.549 416.491 100.989"/>
+      <polyline points="387.191 131.889 358.325 162.307 343.109 147.867 371.974 117.449 387.191 131.889"/>
+      <rect width="41.934" height="20.977" x="314.783" y="160.389" transform="rotate(133.5 335.75 170.878)"/>
+      <polygon points="290.337 151.177 311.335 151.177 311.335 129.783 325.772 129.783 325.772 166.743 290.337 166.743" transform="rotate(43.5 308.055 148.263)"/>
+      <rect width="25.93" height="20.977" x="327.177" y="123.885" transform="rotate(133.5 340.142 134.374)"/>
+      <rect width="41.934" height="20.977" x="386.716" y="52.679" transform="rotate(133.5 407.683 63.168)"/>
+      <polygon points="354.337 29.177 375.335 29.177 375.335 7.783 389.772 7.783 389.772 44.743 354.337 44.743" transform="rotate(-135.5 372.055 26.263)"/>
+      <polyline points="359.491 41.989 330.625 72.407 315.409 57.967 344.274 27.549 359.491 41.989" transform="rotate(2.5 337.45 49.978)"/>
+      <polyline points="328.648 71.889 299.783 102.307 284.566 87.867 313.432 57.449 328.648 71.889" transform="rotate(2.5 306.607 79.878)"/>
+      <rect width="41.934" height="20.977" x="255.01" y="99.27" transform="rotate(136 275.977 109.76)"/>
+      <rect width="41.934" height="20.977" x="272.329" y="232.931" transform="rotate(132 293.296 243.42)"/>
+      <polygon points="300.337 264.177 321.335 264.177 321.335 242.783 335.772 242.783 335.772 279.743 300.337 279.743" transform="scale(1 -1) rotate(48 904.86 0)"/>
+      <rect width="41.934" height="20.977" x="360.329" y="307.931" transform="rotate(138 381.296 318.42)"/>
+    </g>
+    <g opacity=".8" transform="rotate(12.5 87.094 803.688)">
+      <g stroke="#979797" transform="translate(.004 .96)">
+        <path stroke-width="3.813" d="M604.925098 700.797177L602.916872 691.736885 642.09113 650.357789 582.836445 584.036585 796.597557 372.174032C796.597557 372.174032 579.457441 151.140823 298.333059.224021548 298.333059.224021548 113.954873 249.650713.55795385e-13 545.876914L288.587033 649.981445 262.737518 734.403709 315.506686 752.835798 323.382401 807.336222 614.007769 742.891798 611.339226 730.47593M469.674542 773.204912L458.3087 721.735961M439.985345 639.285606L407.865365 494.401733 439.985345 639.285606z" stroke-linecap="round" stroke-linejoin="round"/>
+        <polyline stroke-width="3.813" points="446.796 638.288 440.103 639.772 458.32 721.988 509.154 710.718 490.874 628.579 479.339 631.208" stroke-linecap="round" stroke-linejoin="round"/>
+        <polyline stroke-width="3.813" points="387.032 400.315 373.706 340.287 160.107 220.373" stroke-linecap="round" stroke-linejoin="round"/>
+        <polyline stroke-width="3.813" points="386.963 482.61 322.08 497.001 350.34 624.536" stroke-linecap="round" stroke-linejoin="round"/>
+        <use stroke-width="7.626" mask="url(#k)" xlink:href="#a"/>
+        <polyline stroke-width="3.813" points="661.603 251.162 472.427 478.523 515.627 519.548" stroke-linecap="round" stroke-linejoin="round"/>
+        <path stroke-width="3.813" d="M602.682194 691.304238L558.393706 643.631438M583.006649 584.143013L542.855924 545.540159M590.340891 194.897858L516.837264 288.842641M517.046115 140.741668L420.711015 276.30841M446.032719 241.700964L483.725757 269.555497M400.942013 302.138236L374.73556 339.154689 400.942013 302.138236zM582.544689 344.951604L543.608433 314.798094M297.625699 298.145911L274.311956 339.816981" stroke-linecap="round" stroke-linejoin="round"/>
+        <polyline stroke-width="3.813" points="115.683 299.601 256.809 371.85 243.803 395.738" stroke-linecap="round" stroke-linejoin="round"/>
+        <polyline stroke-width="3.813" points="227.071 427.853 218.843 443.627 73.673 378.366" stroke-linecap="round" stroke-linejoin="round"/>
+        <path stroke-width="3.813" d="M439.941316 639.807506L318.80273 666.663283M282.39456 674.745072L286.110819 673.921198M387.405026 651.603328L408.480404 746.668216M415.729276 779.365764L417.301307 786.456736" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <g stroke="#BABABA" stroke-width="2.86" transform="translate(222.86 267.208)">
+        <use mask="url(#l)" transform="rotate(-102.5 240.204 368.651)" xlink:href="#b"/>
+        <use mask="url(#m)" transform="rotate(-102.5 79.62 404.252)" xlink:href="#c"/>
+        <use mask="url(#n)" transform="rotate(167.5 189.233 496.72)" xlink:href="#d"/>
+        <use mask="url(#o)" transform="rotate(-12.5 130.881 374.397)" xlink:href="#e"/>
+        <use mask="url(#p)" transform="rotate(27.5 12.38 145.367)" xlink:href="#f"/>
+        <use mask="url(#q)" transform="rotate(29 42.516 89.61)" xlink:href="#g"/>
+        <use mask="url(#r)" transform="rotate(-53 276.319 14.917)" xlink:href="#h"/>
+        <use mask="url(#s)" transform="rotate(-53 305.737 37.15)" xlink:href="#i"/>
+        <use mask="url(#t)" transform="rotate(-46.5 306.388 266.291)" xlink:href="#j"/>
+      </g>
+      <path fill="#1AB394" d="M604.072107,719.702673 L594.209605,719.702673 L594.209605,722.517137 L604.072107,722.517137 L604.072107,726.738833 L609.685714,721.109905 L604.072107,715.480977 L604.072107,719.702673 L604.072107,719.702673 Z M612.485483,718.295441 L612.485483,714.073745 L622.347985,714.073745 L622.347985,711.259281 L612.485483,711.259281 L612.485483,707.037585 L606.871876,712.666513 L612.485483,718.295441 L612.485483,718.295441 Z" transform="rotate(-12.5 608.279 716.888)"/>
+    </g>
+    <g fill="#A7B1C2" transform="translate(334.566 381.358)" font-size="13.345" font-family="OpenSans-Semibold, Open Sans" letter-spacing=".267" font-weight="500">
+      <text>
+        <tspan x="262.219" y="377.288">Кухня</tspan>
+      </text>
+      <text>
+        <tspan x="57.49" y="261.913">Столовая</tspan>
+      </text>
+      <text>
+        <tspan x=".813" y="413.521">Игровая</tspan>
+      </text>
+      <text>
+        <tspan x="84.277" y="413.521">Склад</tspan>
+      </text>
+      <text>
+        <tspan x="138.207" y="384.916">Склад</tspan>
+      </text>
+      <text>
+        <tspan x="309.135" y="14">Переговорная</tspan>
+      </text>
+    </g>
+    <g transform="translate(525.176 771.344)">
+      <rect width="12.39" height="1.43" x="1.906" y="10.489" fill="#A6A6A6" transform="rotate(65 8.1 11.204)" rx=".715"/>
+      <rect width="12.39" height="1.43" x="5.718" y="9.535" fill="#A6A6A6" transform="rotate(30 11.913 10.25)" rx=".715"/>
+      <rect width="12.39" height="1.43" x="7.624" y="5.721" fill="#A6A6A6" rx=".715"/>
+      <rect width="7.624" height="23.838" fill="#DADADA" stroke="#969696" stroke-width=".953" transform="matrix(-1 0 0 1 7.624 0)" rx="2.86"/>
+    </g>
+  </g>
+</svg>

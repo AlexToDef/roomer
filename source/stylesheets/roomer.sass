@@ -1,0 +1,136 @@
+$active-color: #1ab394
+$inactive-color: #f8ac59
+$absent-color: #676a6c
+$stroke-color: #c7c7c7
+$zoomed-fill: #fefff5
+
+svg
+  width: 100%
+
+.rcontainer
+  border: 3px solid green
+  width: 95%
+  overflow: hidden
+  float: right
+  position: relative
+
+.roomer__room
+  fill: white
+
+.roomer__room-contour
+  fill-opacity: 0
+
+.roomer__room-contour_zoomed
+  fill-opacity: 1
+  fill: $zoomed-fill
+
+.roomer__room_hovered
+  cursor: pointer !important
+
+.roomer__user-contour
+  stroke: $stroke-color
+
+.roomer__user-contour_invisible
+  display: none !important
+
+.roomer__user-dot_active
+  fill: $active-color
+
+.roomer__user-dot_inactive
+  fill: $inactive-color
+
+.roomer__user-dot_absent
+  fill: $absent-color
+
+.roomer__user-dot_on-vacation
+  fill: $absent-color
+
+.roomer__user-info-status_on-vacation
+  fill: $absent-color
+
+.roomer__user-info
+  fill-opacity: 0.5
+
+.roomer__user-avatar-container
+  stroke: #FFF
+  stroke-width: 2px
+
+.roomer__user-avatar
+  clip-path: circle(7px at center);
+
+.roomer__user-info-status
+  fill-opacity: 1
+
+.invisible
+  display: none
+
+
+.overlay
+  fill: none
+  pointer-events: all
+
+.roomer-modal
+  display: none
+  position: absolute
+  border: 1px solid #e7eaec
+  border-radius: 4px
+  background-color: #ffffff
+  box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.15)
+  z-index: 110
+
+.roomed-modal_visible
+  display: block
+
+.roomer-modal::after
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  margin-left: -0.5em;
+  bottom: -20px;
+  left: 50%;
+  box-sizing: border-box;
+  z-index: 101
+
+  border: 10px solid black;
+  border-color: transparent transparent #ffffff #ffffff;
+
+  transform-origin: 0 0;
+  transform: rotate(-45deg);
+
+  box-shadow: -2px 2px 4px 0 rgba(0, 0, 0, 0.06)
+
+.roomer-modal__header
+  padding: 12px 15px 10px 15px
+  border-bottom: 1px solid #e7eaec
+
+.roomer-modal__title
+  font-family: OpenSans, sans-serif
+  font-size: 16px
+  font-weight: 400
+  font-style: normal
+  font-stretch: normal
+  line-height: 1.25
+  color: #676a6c
+
+.roomer-modal__description
+  font-family: OpenSans, sans-serif
+  font-size: 12px
+  font-weight: normal
+  font-style: normal
+  font-stretch: normal
+  line-height: 1.67
+  color: #9c9c9c
+  margin-top: -3px
+
+.roomer-modal__info
+  position: relative
+  padding: 4px 15px 2px 15px
+  font-family: OpenSans, sans-serif
+  font-size: 11px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.82;
+  color: #9c9c9c;
+  z-index: 105

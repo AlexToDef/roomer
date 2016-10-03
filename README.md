@@ -1,0 +1,1 @@
+Tool for operating with SVG floor schemes.
