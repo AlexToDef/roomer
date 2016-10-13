@@ -201,6 +201,7 @@ document.addEventListener 'DOMContentLoaded', ->
       self = @
       d3.selectAll('.roomer__room')
         .on('click', ->
+          console.log( 12313 )
           element = d3.select(d3.event.toElement)
 
           unless element.classed('roomer__room-contour')
@@ -217,32 +218,37 @@ document.addEventListener 'DOMContentLoaded', ->
         .on('mouseleave', ->
           d3.select(this).classed('roomer__room_hovered', false)
         )
-      d3.selectAll('.roomer__user-avatar')
-        .on 'click', ->
-          user = users[d3.select(@).attr('data-user-id')]
+      setTimeout(
+        (->
+          d3.selectAll('.roomer__user-avatar')
+            .on('click', ->
+              user = users[d3.select(@).attr('data-user-id')]
 
-          modal = d3.select('.roomer-modal')
-          modal.classed 'roomed-modal__visible', true
+              modal = d3.select('.roomer-modal')
+              modal.classed 'roomed-modal__visible', true
 
-          d3.select('.roomer-modal__title').html(user.name)
-          d3.select('.roomer-modal__description').html(user.occupation)
-          if user.status == 2
-            d3.select('.roomer-modal__info').html(user.lastOnline)
-          else
-            d3.select('.roomer-modal__info').html('Online')
+              d3.select('.roomer-modal__title').html(user.name)
+              d3.select('.roomer-modal__description').html(user.occupation)
+              if user.status == 2
+                d3.select('.roomer-modal__info').html(user.lastOnline)
+              else
+                d3.select('.roomer-modal__info').html('Online')
 
-          offset = self.getContainerTranslate(d3.select('.roomer'))
+              offset = self.getContainerTranslate(d3.select('.roomer'))
 
-          widthDifference = $(r.svg[0][0]).width() - r.svg.attr('width')
-          heightDifference = $(r.svg[0][0]).height() - r.svg.attr('height')
+              widthDifference = $(self.svg[0][0]).width() - self.svg.attr('width')
+              heightDifference = $(self.svg[0][0]).height() - self.svg.attr('height')
 
-          trX = ((parseInt(d3.select(@).attr('x'))) - Math.abs(self.xTranslate))*self.scale + widthDifference/2 + Math.abs(self.svgOffset.x/2) - $(modal[0][0]).width()/2 - 17
-          trY = (parseInt(d3.select(@).attr('y')) - Math.abs(self.yTranslate))*self.scale + heightDifference - $(modal[0][0]).height() - 24
+              trX = ((parseInt(d3.select(@).attr('x'))) - Math.abs(self.xTranslate))*self.scale + widthDifference/2 + Math.abs(self.svgOffset.x/2) - $(modal[0][0]).width()/2 - 17
+              trY = (parseInt(d3.select(@).attr('y')) - Math.abs(self.yTranslate))*self.scale + heightDifference - $(modal[0][0]).height() - 24
 
-          modal
-          .style 'left', "#{trX}px"
-          .style 'top', "#{trY}px"
-          .classed 'roomed-modal_visible', true
+              modal
+              .style 'left', "#{trX}px"
+              .style 'top', "#{trY}px"
+              .classed 'roomed-modal_visible', true
+            )
+          ), 500
+        )
       d3.select('body')
         .on 'click', ->
           if self.getOriginalElement(d3.select('.roomer__user:hover')) == null
@@ -257,4 +263,3 @@ document.addEventListener 'DOMContentLoaded', ->
 
 
   (new sqRoomer('svg', users)).initialize()
-
